@@ -22,7 +22,7 @@ void keypad_vInit(void)
 }
 uint8 keypad_u8check_press(void)
 {
-	uint8 arr[4][4]={{'1','2','3','A'},{'4','5','6','B'},{'7','8','9','C'},{'*','0','#','D'}}; 
+	uint8 arr[4][4]={{'7','8','9','/'},{'4','5','6','*'},{'1','2','3','-'},{'c','0','=','+'}}; 
 	uint8 row; 
 	uint8 coloumn; 
 	uint8 key_pressed_indicator; //the variable  which contain the key pressed
