@@ -1,4 +1,3 @@
-
 #ifndef KEYPAD_DRIVER_H_
 #define KEYPAD_DRIVER_H_
 #define NOT_PRESSED 0xff
