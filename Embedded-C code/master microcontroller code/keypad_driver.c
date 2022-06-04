@@ -1,4 +1,3 @@
-
 #include "keypad_driver.h"
 void keypad_vInit(void)
 {
