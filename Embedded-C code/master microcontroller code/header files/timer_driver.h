@@ -1,5 +1,3 @@
-
-
 #ifndef TIMER_DRIVER_H_
 #define TIMER_DRIVER_H
 #include <avr/io.h>
