@@ -1,4 +1,3 @@
-
 #ifndef DIO_CONFIG_MASTER_H_
 #define DIO_CONFIG_MASTER_H_
 
