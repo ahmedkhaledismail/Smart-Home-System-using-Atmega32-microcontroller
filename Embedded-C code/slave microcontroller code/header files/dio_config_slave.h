@@ -1,4 +1,3 @@
-
 #ifndef DIO_SLAVE_CFG_H_
 #define DIO_SLAVE_CFG_H_
 #define ROOM1_LED_PORT			  'D'
