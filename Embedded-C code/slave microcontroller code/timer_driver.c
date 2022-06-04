@@ -1,4 +1,3 @@
-
 #include "timer_driver.h"
 
 void timer0_initializeCTC(void)
