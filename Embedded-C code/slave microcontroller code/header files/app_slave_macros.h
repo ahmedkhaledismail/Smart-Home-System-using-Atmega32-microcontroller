@@ -1,4 +1,3 @@
-
 #ifndef APP_SLAVE_MACROS_H_
 #define APP_SLAVE_MACROS_H_
 #include "STD_Types.h"
