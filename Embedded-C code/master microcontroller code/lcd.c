@@ -1,4 +1,3 @@
-
 static void send_falling_edge(void); // local function
 
 #include "LCD.h" 
